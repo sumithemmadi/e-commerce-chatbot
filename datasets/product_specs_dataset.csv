@@ -39,7 +39,7 @@ What is the available color for this product?,Color,selected_product/specs/Gener
 Do you have the product color available?,Color,selected_product/specs/General/Color
 May I have the product color please?,Color,selected_product/specs/General/Color
 Could you tell me the color of the product?,Color,selected_product/specs/General/Color
-I require the color of the product.Color,selected_product/specs/General/Color
+I require the color of the product,Color,selected_product/specs/General/Color
 What's the product color please?,Color,selected_product/specs/General/Color
 What type of SIM card does the slot accept?,SIM Type,selected_product/specs/General/SIM Type
 Can the slot accommodate both SIM and SD cards?,Compatibility,selected_product/specs/General/Hybrid Sim Slot

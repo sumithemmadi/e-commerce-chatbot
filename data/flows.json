@@ -1,5 +1,5 @@
 {
-    "flow": "QUERY_PROCUCT",
+    "flow": "SELECT",
     "products_list": [
         {
             "name": "POCO X5 5G (Supernova Green, 256 GB)",
@@ -12,79 +12,44 @@
             "url": "https://www.flipkart.com/poco-x5-5g-wildcat-blue-256-gb/p/itme100b90984aad"
         },
         {
-            "name": "POCO C51 (Royal Blue, 64 GB)",
-            "price": "\u20b95,999",
-            "url": "https://www.flipkart.com/poco-c51-royal-blue-64-gb/p/itm1e4e8373537a7"
+            "name": "APPLE iPhone 14 (Midnight, 128 GB)",
+            "price": "\u20b957,999",
+            "url": "https://www.flipkart.com/apple-iphone-14-midnight-128-gb/p/itm9e6293c322a84"
         },
         {
-            "name": "POCO M6 Pro 5G (Power Black, 128 GB)",
-            "price": "\u20b911,999",
-            "url": "https://www.flipkart.com/poco-m6-pro-5g-power-black-128-gb/p/itmef8fa46f89738"
+            "name": "APPLE iPhone 14 (Blue, 128 GB)",
+            "price": "\u20b956,999",
+            "url": "https://www.flipkart.com/apple-iphone-14-blue-128-gb/p/itmdb77f40da6b6d"
         },
         {
-            "name": "POCO C55 (Cool Blue, 128 GB)",
-            "price": "\u20b97,799",
-            "url": "https://www.flipkart.com/poco-c55-cool-blue-128-gb/p/itm26aca9fd143ba"
+            "name": "APPLE iPhone 14 (Starlight, 128 GB)",
+            "price": "\u20b956,999",
+            "url": "https://www.flipkart.com/apple-iphone-14-starlight-128-gb/p/itm3485a56f6e676"
         },
         {
-            "name": "POCO M6 Pro 5G (Forest Green, 128 GB)",
-            "price": "\u20b911,999",
-            "url": "https://www.flipkart.com/poco-m6-pro-5g-forest-green-128-gb/p/itm151f47ed48eee"
+            "name": "APPLE iPhone 14 (Purple, 128 GB)",
+            "price": "\u20b957,999",
+            "url": "https://www.flipkart.com/apple-iphone-14-purple-128-gb/p/itm0b581eba85e08"
         },
         {
-            "name": "POCO C51 - Locked with Airtel Prepaid (Power Black, 64 GB)",
-            "price": "\u20b95,499",
-            "url": "https://www.flipkart.com/poco-c51-locked-airtel-prepaid-power-black-64-gb/p/itmf84c207e77bd0"
+            "name": "APPLE iPhone 14 Plus (Blue, 128 GB)",
+            "price": "\u20b963,999",
+            "url": "https://www.flipkart.com/apple-iphone-14-plus-blue-128-gb/p/itmac8385391b02b"
         },
         {
-            "name": "POCO X5 5G (Supernova Green, 128 GB)",
-            "price": "\u20b913,999",
-            "url": "https://www.flipkart.com/poco-x5-5g-supernova-green-128-gb/p/itmb4486c67956f6"
+            "name": "SAMSUNG Galaxy F14 5G (GOAT Green, 128 GB)",
+            "price": "\u20b911,490",
+            "url": "https://www.flipkart.com/samsung-galaxy-f14-5g-goat-green-128-gb/p/itm538a06ee7dc98"
         },
         {
-            "name": "POCO C51 (Power Black, 64 GB)",
-            "price": "\u20b95,999",
-            "url": "https://www.flipkart.com/poco-c51-power-black-64-gb/p/itm62bcd2634619e"
+            "name": "MOTOROLA g54 5G (Mint Green, 256 GB)",
+            "price": "\u20b915,999",
+            "url": "https://www.flipkart.com/motorola-g54-5g-mint-green-256-gb/p/itm9f608c1154160"
         },
         {
-            "name": "POCO X5 Pro 5G (Astral Black, 256 GB)",
-            "price": "\u20b919,499",
-            "url": "https://www.flipkart.com/poco-x5-pro-5g-astral-black-256-gb/p/itm6bf766212d183"
-        },
-        {
-            "name": "POCO X5 5G (Jaguar Black, 256 GB)",
-            "price": "\u20b914,999",
-            "url": "https://www.flipkart.com/poco-x5-5g-jaguar-black-256-gb/p/itm72b2f2656bf5a"
-        },
-        {
-            "name": "POCO X5 5G (Jaguar Black, 128 GB)",
-            "price": "\u20b913,999",
-            "url": "https://www.flipkart.com/poco-x5-5g-jaguar-black-128-gb/p/itmea3de872e8205"
-        },
-        {
-            "name": "POCO M6 Pro 5G (Forest Green, 128 GB)",
-            "price": "\u20b910,999",
-            "url": "https://www.flipkart.com/poco-m6-pro-5g-forest-green-128-gb/p/itmdd5c70c99f5b2"
-        },
-        {
-            "name": "POCO M6 Pro 5G (Power Black, 128 GB)",
-            "price": "\u20b910,999",
-            "url": "https://www.flipkart.com/poco-m6-pro-5g-power-black-128-gb/p/itm5b122ff13027f"
-        },
-        {
-            "name": "POCO C55 (Forest Green, 128 GB)",
-            "price": "\u20b97,799",
-            "url": "https://www.flipkart.com/poco-c55-forest-green-128-gb/p/itm7ed4c1ff2689f"
-        },
-        {
-            "name": "POCO C51 - Locked with Airtel Prepaid (Royal Blue, 64 GB)",
-            "price": "\u20b95,499",
-            "url": "https://www.flipkart.com/poco-c51-locked-airtel-prepaid-royal-blue-64-gb/p/itm795e693024fbb"
-        },
-        {
-            "name": "POCO X5 Pro 5G (Horizon Blue, 256 GB)",
-            "price": "\u20b919,499",
-            "url": "https://www.flipkart.com/poco-x5-pro-5g-horizon-blue-256-gb/p/itm7d7b6b78895bc"
+            "name": "MOTOROLA g54 5G (Pearl Blue, 256 GB)",
+            "price": "\u20b915,999",
+            "url": "https://www.flipkart.com/motorola-g54-5g-pearl-blue-256-gb/p/itmb97dc7f2e0a90"
         },
         {
             "name": "POCO X5 Pro 5G (Horizon Blue, 128 GB)",
@@ -92,14 +57,29 @@
             "url": "https://www.flipkart.com/poco-x5-pro-5g-horizon-blue-128-gb/p/itm4cef23ac6a3f8"
         },
         {
-            "name": "POCO C55 (Power Black, 128 GB)",
-            "price": "\u20b97,799",
-            "url": "https://www.flipkart.com/poco-c55-power-black-128-gb/p/itm52dfc91751293"
+            "name": "POCO X5 5G (Jaguar Black, 256 GB)",
+            "price": "\u20b914,999",
+            "url": "https://www.flipkart.com/poco-x5-5g-jaguar-black-256-gb/p/itm72b2f2656bf5a"
         },
         {
-            "name": "POCO C55 (Forest Green, 64 GB)",
-            "price": "\u20b96,799",
-            "url": "https://www.flipkart.com/poco-c55-forest-green-64-gb/p/itm8b99ef9bd674c"
+            "name": "vivo T2x 5G (Marine Blue, 128 GB)",
+            "price": "\u20b914,999",
+            "url": "https://www.flipkart.com/vivo-t2x-5g-marine-blue-128-gb/p/itmcb8f0f6a85d5d"
+        },
+        {
+            "name": "vivo T2x 5G (Aurora Gold, 128 GB)",
+            "price": "\u20b914,999",
+            "url": "https://www.flipkart.com/vivo-t2x-5g-aurora-gold-128-gb/p/itmcb8f0f6a85d5d"
+        },
+        {
+            "name": "vivo T2x 5G (Glimmer Black, 128 GB)",
+            "price": "\u20b914,999",
+            "url": "https://www.flipkart.com/vivo-t2x-5g-glimmer-black-128-gb/p/itmcb8f0f6a85d5d"
+        },
+        {
+            "name": "POCO C51 (Royal Blue, 64 GB)",
+            "price": "\u20b95,999",
+            "url": "https://www.flipkart.com/poco-c51-royal-blue-64-gb/p/itm1e4e8373537a7"
         },
         {
             "name": "POCO X5 Pro 5G (Astral Black, 128 GB)",
@@ -107,270 +87,39 @@
             "url": "https://www.flipkart.com/poco-x5-pro-5g-astral-black-128-gb/p/itm1f27d5ae38ed2"
         },
         {
-            "name": "POCO X5 Pro 5G (Yellow, 128 GB)",
-            "price": "\u20b918,499",
-            "url": "https://www.flipkart.com/poco-x5-pro-5g-yellow-128-gb/p/itm1b74c5f2f4391"
-        },
-        {
             "name": "POCO X5 Pro 5G (Yellow, 256 GB)",
             "price": "\u20b919,499",
-            "url": "https://www.flipkart.com/poco-x5-pro-5g-yellow-256-gb/p/itm3a4010e6b2c40",
-            "specs": {
-                "General": {
-                    "In The Box": "Handset, 67W Charger, USB Type-C Cable, Sim Eject Tool, Protective Case, Quick Start Guide, Warranty Card",
-                    "Model Number": "MZB0DGXIN",
-                    "Model Name": "X5 Pro 5G",
-                    "Color": "Yellow",
-                    "Browse Type": "Smartphones",
-                    "SIM Type": "Dual Sim",
-                    "Hybrid Sim Slot": "No",
-                    "Touchscreen": "Yes",
-                    "OTG Compatible": "Yes",
-                    "Quick Charging": "Yes"
-                },
-                "Display Features": {
-                    "Display Size": "16.94 cm (6.67 inch)",
-                    "Resolution": "2400 x 1080 Pixels",
-                    "Resolution Type": "Full HD+",
-                    "GPU": "Qualcomm Adreno 642L",
-                    "Display Type": "Full HD + Xfinity AMOLED Display",
-                    "Other Display Features": "120 Hz Adaptive Refresh Rate, Contrast: 5,000,000:1, 1920 Hz PWM Dimming, 10 Bit Display, Peak Brightness: 900 Nits"
-                },
-                "Os & Processor Features": {
-                    "Operating System": "Android 12",
-                    "Processor Brand": "Snapdragon",
-                    "Processor Type": "Qualcomm Snapdragon 778G",
-                    "Processor Core": "Octa Core",
-                    "Primary Clock Speed": "2.4 GHz",
-                    "Secondary Clock Speed": "1.8 GHz",
-                    "Operating Frequency": "2G GSM: B2/B3/B5/B8, 3G WCDMA: B1/B2/B4/B5/B8, 4G LTE TDD: B40/B41, 4G LTE FDD: B1/B2/B3/B5/B8, 5G SA: N1/N3/N5/N8/N28/N40/N78, 5G NSA: N1/N3/N5/N8/N28/N40/N78"
-                },
-                "Memory & Storage Features": {
-                    "Internal Storage": "256 GB",
-                    "RAM": "8 GB",
-                    "Total Memory": "256 GB",
-                    "Call Log Memory": "Yes"
-                },
-                "Camera Features": {
-                    "Primary Camera Available": "Yes",
-                    "Primary Camera": "108MP + 8MP + 2MP",
-                    "Primary Camera Features": "Triple Camera Setup: 108MP Main Camera (Isocell, HM2 Sensor, 1/1.52 inch Sensor Size, f/1.9 Aperture, 2.1um 9-in-1) + 8MP Ultra Wide Camera + 2MP Macro Camera, Camera Features: Photo Mode, 108MP Mode, Panorama, Timelapse, AI Watermark, Long Exposure, Night Mode, Portrait Mode, Document Mode, Pro Mode, Movie Frame, Voice Shutter, Tilt Shift, Video Feature: Ultra Wide Video Recording, Macro Video, 4K Recording, Short Video, Slow Motion, Vlog Mode, Pro Video, EIS",
-                    "Secondary Camera Available": "Yes",
-                    "Secondary Camera": "16MP Front Camera",
-                    "Secondary Camera Features": "16MP Front Camera Setup: Camera Features: Portrait Mode, Front Video Recording, Palm Shutter, Voice Shutter, Movie Frame, Night Mode, Slow Motion, Timelapse, AI Watermark, Panorama, Short Video",
-                    "Flash": "Rear Flash",
-                    "HD Recording": "Yes",
-                    "Full HD Recording": "Yes",
-                    "Video Recording": "Yes",
-                    "Video Recording Resolution": "Rear Camera: 4K (at 30 fps), 1080p (at 60 fps), 720p (at 30 fps) | Front Camera: 1080p (at 60 fps), 720p (at 30 fps)",
-                    "Digital Zoom": "Yes, Upto 10X",
-                    "Frame Rate": "60 fps, 30 fps",
-                    "Image Editor": "Yes",
-                    "Dual Camera Lens": "Primary Camera"
-                },
-                "Call Features": {
-                    "Call Wait/Hold": "Yes",
-                    "Conference Call": "Yes",
-                    "Hands Free": "Yes",
-                    "Call Divert": "Yes",
-                    "Phone Book": "Yes",
-                    "Call Timer": "Yes",
-                    "Speaker Phone": "Yes",
-                    "Call Records": "Yes"
-                },
-                "Connectivity Features": {
-                    "Network Type": "5G, 4G VOLTE, 4G, 3G, 2G",
-                    "Supported Networks": "5G, 4G VoLTE, 4G LTE, WCDMA, GSM",
-                    "Internet Connectivity": "5G, 4G, 3G, Wi-Fi, EDGE, GPRS",
-                    "3G": "Yes",
-                    "GPRS": "Yes",
-                    "Micro USB Port": "Yes",
-                    "Micro USB Version": "USB Type C",
-                    "Bluetooth Support": "Yes",
-                    "Bluetooth Version": "v5.1",
-                    "Wi-Fi": "Yes",
-                    "Wi-Fi Version": "Supports 2.4 GHz and 5 GHz Dual Band",
-                    "Wi-Fi Hotspot": "Yes",
-                    "Mini HDMI Port": "No",
-                    "NFC": "No",
-                    "USB Tethering": "Yes",
-                    "Infrared": "Yes",
-                    "USB Connectivity": "Yes",
-                    "EDGE": "Yes",
-                    "Audio Jack": "3.5mm",
-                    "Map Support": "Google Maps",
-                    "GPS Support": "Yes"
-                },
-                "Other Details": {
-                    "Smartphone": "Yes",
-                    "Touchscreen Type": "Capacitive",
-                    "SIM Size": "Nano Sim",
-                    "User Interface": "MIUI 14 (Based on Android 12)",
-                    "Instant Message": "Yes",
-                    "Removable Battery": "No",
-                    "MMS": "Yes",
-                    "SMS": "Yes",
-                    "Keypad": "No",
-                    "Voice Input": "Yes",
-                    "Predictive Text Input": "Yes",
-                    "Sensors": "Ambient Light Sensor, Proximity Sensor, Accelerometer, Gyroscope, Side Fingerprint Sensor",
-                    "Browser": "Google Chrome",
-                    "Other Features": "IP53 Protection, Dolby Vision, Dual Stereo Speakers with Dolby Atmos, Standby Time on 2G: 631 Hours, Dual Sim Support, CPU: 6nm Processor Technology, 4 x A78 (at 2.4 GHz) + 4 x A55 (at 1.8 GHz), SAR Limit: 1.6 W/kg, Head SAR: 0.862 W/kg, Body SAR: 0.868 W/kg, UFS 2.2",
-                    "GPS Type": "GPS, AGPS, GLONASS, GALILEO, QZSS"
-                },
-                "Multimedia Features": {
-                    "FM Radio": "No",
-                    "FM Radio Recording": "No",
-                    "Music Player": "Yes"
-                },
-                "Battery & Power Features": {
-                    "Battery Capacity": "5000 mAh",
-                    "Battery Type": "Lithium Polymer"
-                },
-                "Dimensions": {
-                    "Width": "76.03 mm",
-                    "Height": "162.91 mm",
-                    "Depth": "7.9 mm",
-                    "Weight": "181 g"
-                },
-                "Warranty": {
-                    "Warranty Summary": "1 Year Manufacturer Warranty for Phone and 6 Months Warranty for in the Box Accessories",
-                    "Domestic Warranty": "1 Year"
-                }
-            }
+            "url": "https://www.flipkart.com/poco-x5-pro-5g-yellow-256-gb/p/itm3a4010e6b2c40"
         },
         {
-            "name": "POCO C55 (Cool Blue, 64 GB)",
-            "price": "\u20b96,799",
-            "url": "https://www.flipkart.com/poco-c55-cool-blue-64-gb/p/itm166c52f5d5dc0"
+            "name": "APPLE iPhone 14 Plus (Starlight, 128 GB)",
+            "price": "\u20b963,999",
+            "url": "https://www.flipkart.com/apple-iphone-14-plus-starlight-128-gb/p/itmc922ddc8af349"
+        },
+        {
+            "name": "vivo T2x 5G (Glimmer Black, 128 GB)",
+            "price": "\u20b912,999",
+            "url": "https://www.flipkart.com/vivo-t2x-5g-glimmer-black-128-gb/p/itmcb8f0f6a85d5d"
+        },
+        {
+            "name": "POCO X5 Pro 5G (Astral Black, 256 GB)",
+            "price": "\u20b919,499",
+            "url": "https://www.flipkart.com/poco-x5-pro-5g-astral-black-256-gb/p/itm6bf766212d183"
+        },
+        {
+            "name": "POCO X5 5G (Jaguar Black, 128 GB)",
+            "price": "\u20b913,999",
+            "url": "https://www.flipkart.com/poco-x5-5g-jaguar-black-128-gb/p/itmea3de872e8205"
+        },
+        {
+            "name": "vivo T2x 5G (Marine Blue, 128 GB)",
+            "price": "\u20b912,999",
+            "url": "https://www.flipkart.com/vivo-t2x-5g-marine-blue-128-gb/p/itmcb8f0f6a85d5d"
+        },
+        {
+            "name": "vivo T2x 5G (Aurora Gold, 128 GB)",
+            "price": "\u20b912,999",
+            "url": "https://www.flipkart.com/vivo-t2x-5g-aurora-gold-128-gb/p/itmcb8f0f6a85d5d"
         }
-    ],
-    "selected_product": {
-        "name": "POCO X5 Pro 5G (Yellow, 256 GB)",
-        "price": "\u20b919,499",
-        "url": "https://www.flipkart.com/poco-x5-pro-5g-yellow-256-gb/p/itm3a4010e6b2c40",
-        "specs": {
-            "General": {
-                "In The Box": "Handset, 67W Charger, USB Type-C Cable, Sim Eject Tool, Protective Case, Quick Start Guide, Warranty Card",
-                "Model Number": "MZB0DGXIN",
-                "Model Name": "X5 Pro 5G",
-                "Color": "Yellow",
-                "Browse Type": "Smartphones",
-                "SIM Type": "Dual Sim",
-                "Hybrid Sim Slot": "No",
-                "Touchscreen": "Yes",
-                "OTG Compatible": "Yes",
-                "Quick Charging": "Yes"
-            },
-            "Display Features": {
-                "Display Size": "16.94 cm (6.67 inch)",
-                "Resolution": "2400 x 1080 Pixels",
-                "Resolution Type": "Full HD+",
-                "GPU": "Qualcomm Adreno 642L",
-                "Display Type": "Full HD + Xfinity AMOLED Display",
-                "Other Display Features": "120 Hz Adaptive Refresh Rate, Contrast: 5,000,000:1, 1920 Hz PWM Dimming, 10 Bit Display, Peak Brightness: 900 Nits"
-            },
-            "Os & Processor Features": {
-                "Operating System": "Android 12",
-                "Processor Brand": "Snapdragon",
-                "Processor Type": "Qualcomm Snapdragon 778G",
-                "Processor Core": "Octa Core",
-                "Primary Clock Speed": "2.4 GHz",
-                "Secondary Clock Speed": "1.8 GHz",
-                "Operating Frequency": "2G GSM: B2/B3/B5/B8, 3G WCDMA: B1/B2/B4/B5/B8, 4G LTE TDD: B40/B41, 4G LTE FDD: B1/B2/B3/B5/B8, 5G SA: N1/N3/N5/N8/N28/N40/N78, 5G NSA: N1/N3/N5/N8/N28/N40/N78"
-            },
-            "Memory & Storage Features": {
-                "Internal Storage": "256 GB",
-                "RAM": "8 GB",
-                "Total Memory": "256 GB",
-                "Call Log Memory": "Yes"
-            },
-            "Camera Features": {
-                "Primary Camera Available": "Yes",
-                "Primary Camera": "108MP + 8MP + 2MP",
-                "Primary Camera Features": "Triple Camera Setup: 108MP Main Camera (Isocell, HM2 Sensor, 1/1.52 inch Sensor Size, f/1.9 Aperture, 2.1um 9-in-1) + 8MP Ultra Wide Camera + 2MP Macro Camera, Camera Features: Photo Mode, 108MP Mode, Panorama, Timelapse, AI Watermark, Long Exposure, Night Mode, Portrait Mode, Document Mode, Pro Mode, Movie Frame, Voice Shutter, Tilt Shift, Video Feature: Ultra Wide Video Recording, Macro Video, 4K Recording, Short Video, Slow Motion, Vlog Mode, Pro Video, EIS",
-                "Secondary Camera Available": "Yes",
-                "Secondary Camera": "16MP Front Camera",
-                "Secondary Camera Features": "16MP Front Camera Setup: Camera Features: Portrait Mode, Front Video Recording, Palm Shutter, Voice Shutter, Movie Frame, Night Mode, Slow Motion, Timelapse, AI Watermark, Panorama, Short Video",
-                "Flash": "Rear Flash",
-                "HD Recording": "Yes",
-                "Full HD Recording": "Yes",
-                "Video Recording": "Yes",
-                "Video Recording Resolution": "Rear Camera: 4K (at 30 fps), 1080p (at 60 fps), 720p (at 30 fps) | Front Camera: 1080p (at 60 fps), 720p (at 30 fps)",
-                "Digital Zoom": "Yes, Upto 10X",
-                "Frame Rate": "60 fps, 30 fps",
-                "Image Editor": "Yes",
-                "Dual Camera Lens": "Primary Camera"
-            },
-            "Call Features": {
-                "Call Wait/Hold": "Yes",
-                "Conference Call": "Yes",
-                "Hands Free": "Yes",
-                "Call Divert": "Yes",
-                "Phone Book": "Yes",
-                "Call Timer": "Yes",
-                "Speaker Phone": "Yes",
-                "Call Records": "Yes"
-            },
-            "Connectivity Features": {
-                "Network Type": "5G, 4G VOLTE, 4G, 3G, 2G",
-                "Supported Networks": "5G, 4G VoLTE, 4G LTE, WCDMA, GSM",
-                "Internet Connectivity": "5G, 4G, 3G, Wi-Fi, EDGE, GPRS",
-                "3G": "Yes",
-                "GPRS": "Yes",
-                "Micro USB Port": "Yes",
-                "Micro USB Version": "USB Type C",
-                "Bluetooth Support": "Yes",
-                "Bluetooth Version": "v5.1",
-                "Wi-Fi": "Yes",
-                "Wi-Fi Version": "Supports 2.4 GHz and 5 GHz Dual Band",
-                "Wi-Fi Hotspot": "Yes",
-                "Mini HDMI Port": "No",
-                "NFC": "No",
-                "USB Tethering": "Yes",
-                "Infrared": "Yes",
-                "USB Connectivity": "Yes",
-                "EDGE": "Yes",
-                "Audio Jack": "3.5mm",
-                "Map Support": "Google Maps",
-                "GPS Support": "Yes"
-            },
-            "Other Details": {
-                "Smartphone": "Yes",
-                "Touchscreen Type": "Capacitive",
-                "SIM Size": "Nano Sim",
-                "User Interface": "MIUI 14 (Based on Android 12)",
-                "Instant Message": "Yes",
-                "Removable Battery": "No",
-                "MMS": "Yes",
-                "SMS": "Yes",
-                "Keypad": "No",
-                "Voice Input": "Yes",
-                "Predictive Text Input": "Yes",
-                "Sensors": "Ambient Light Sensor, Proximity Sensor, Accelerometer, Gyroscope, Side Fingerprint Sensor",
-                "Browser": "Google Chrome",
-                "Other Features": "IP53 Protection, Dolby Vision, Dual Stereo Speakers with Dolby Atmos, Standby Time on 2G: 631 Hours, Dual Sim Support, CPU: 6nm Processor Technology, 4 x A78 (at 2.4 GHz) + 4 x A55 (at 1.8 GHz), SAR Limit: 1.6 W/kg, Head SAR: 0.862 W/kg, Body SAR: 0.868 W/kg, UFS 2.2",
-                "GPS Type": "GPS, AGPS, GLONASS, GALILEO, QZSS"
-            },
-            "Multimedia Features": {
-                "FM Radio": "No",
-                "FM Radio Recording": "No",
-                "Music Player": "Yes"
-            },
-            "Battery & Power Features": {
-                "Battery Capacity": "5000 mAh",
-                "Battery Type": "Lithium Polymer"
-            },
-            "Dimensions": {
-                "Width": "76.03 mm",
-                "Height": "162.91 mm",
-                "Depth": "7.9 mm",
-                "Weight": "181 g"
-            },
-            "Warranty": {
-                "Warranty Summary": "1 Year Manufacturer Warranty for Phone and 6 Months Warranty for in the Box Accessories",
-                "Domestic Warranty": "1 Year"
-            }
-        }
-    }
+    ]
 }
