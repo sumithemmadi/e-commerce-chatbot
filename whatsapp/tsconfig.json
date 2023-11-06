@@ -1,0 +1,19 @@
+{
+   "compilerOptions": {
+      "target": "ES2020",
+      "module": "CommonJS",
+      "outDir": "./dist",
+      "rootDir": "./src",
+      "strict": true,
+      "esModuleInterop": true,
+      "resolveJsonModule": true,
+      "removeComments": true,
+      "forceConsistentCasingInFileNames": true,
+      "moduleResolution": "Node",
+      "skipLibCheck": true,
+      "lib": ["ES6", "DOM"],
+      "types": ["node", "express"]
+   },
+   "include": ["./src/**/*.ts"],
+   "exclude": ["./node_modules"]
+}

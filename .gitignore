@@ -1,0 +1,12 @@
+# Ignore artifacts:
+whatsapp/build
+whatsapp/coverage
+whatsapp/dist
+whatsapp/baileys_auth_info/
+whatsapp/node_modules/
+
+whatsapp/baileys_store_multi.json
+
+
+.venv/
+modules/__pycache__/

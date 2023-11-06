@@ -1,0 +1,129 @@
+Questions,Keys,Id
+Show all the specs of this phone ?, ALL,ALL 
+Show details of this phone ?,ALL,ALL
+give all the details of this phone, All, All
+What is the product name ?,Product Name,selected_product/name
+What is the product url ?,Url,selected_product/url
+What is the product Link ?,Url,selected_product/link
+What is the price of the product?,Price,selected_product/price
+Can you provide the cost of the product?,Cost,selected_product/price
+What is the pricing for this product?,Pricing,selected_product/price
+May I know the price of the product?,Price Inquiry,selected_product/price
+Is there a specified price for this product?,Specified Price,selected_product/price
+Please share the product's price.,Price Information,selected_product/price
+What is the  model number?,Model Number,selected_product/specs/General/Model Number
+Could you provide the  model number?,Model Number,selected_product/specs/General/Model Number
+I need the  model number please.,Model Number,selected_product/specs/General/Model Number
+Please share the  model number for this.,Model Number,selected_product/specs/General/Model Number
+What is the model code for ?,Model Number,selected_product/specs/General/Model Number
+Do you have the  model number available?,Model Number,selected_product/specs/General/Model Number
+May I have the  model number please?,Model Number,selected_product/specs/General/Model Number
+Could you tell me the  model number?,Model Number,selected_product/specs/General/Model Number
+I require the model number  for this.,Model Number,selected_product/specs/General/Model Number
+What's the  model number please?,Model Number,selected_product/specs/General/Model Number
+What is the model name?,Model Name,selected_product/specs/General/Model Name
+Could you provide the model name?,Model Name,selected_product/specs/General/Model Name
+I need the model name please.,Model Name,selected_product/specs/General/Model Name
+Please share the model name for this.,Model Name,selected_product/specs/General/Model Name
+What is the product name for [specific item]?,Model Name,selected_product/specs/General/Model Name
+Do you have the model name available?,Model Name,selected_product/specs/General/Model Name
+May I have the model name please?,Model Name,selected_product/specs/General/Model Name
+Could you tell me the model name?,Model Name,selected_product/specs/General/Model Name
+I require the model name for this.,Model Name,selected_product/specs/General/Model Name
+What's the model name please?,Model Name,selected_product/specs/General/Model Name
+What is the color of the product?,Color,selected_product/specs/General/Color
+Could you provide the color of the product?,Color,selected_product/specs/General/Color
+I need the color of the product please.,Color,selected_product/specs/General/Color
+Please share the color of the product.,Color,selected_product/specs/General/Color
+What is the available color for this product?,Color,selected_product/specs/General/Color
+Do you have the product color available?,Color,selected_product/specs/General/Color
+May I have the product color please?,Color,selected_product/specs/General/Color
+Could you tell me the color of the product?,Color,selected_product/specs/General/Color
+I require the color of the product.Color,selected_product/specs/General/Color
+What's the product color please?,Color,selected_product/specs/General/Color
+What type of SIM card does the slot accept?,SIM Type,selected_product/specs/General/SIM Type
+Can the slot accommodate both SIM and SD cards?,Compatibility,selected_product/specs/General/Hybrid Sim Slot
+Is it a hybrid SIM slot or dedicated slots?,Slot Type,selected_product/specs/General/Hybrid Sim Slot
+Does the phone support dual SIM cards?,Dual SIM Support,selected_product/specs/General/Hybrid Sim Slot
+What SIM card configuration does it allow?,Card Configuration,selected_product/specs/General/Hybrid Sim Slot
+Does the SIM slot support two SIM cards and an SD card simultaneously?,Compatibility,selected_product/specs/General/Hybrid Sim Slot
+What sound enhancements are available?,Available Enhancements,selected_product/specs/General/Sound Enhancements
+Can you specify the sound improvement features?,Improvement Features,selected_product/specs/General/Sound Enhancements
+Does the device have any audio enhancement options?,Audio Options,selected_product/specs/General/Sound Enhancements
+What kind of sound modifications does it offer?,Sound Modifications,selected_product/specs/General/Sound Enhancements
+Are there any specific audio enhancements present?,Specific Enhancements,selected_product/specs/General/Sound Enhancements
+Please describe the sound enhancement capabilities.,Description,selected_product/specs/General/Sound Enhancements
+Is the device equipped with a touchscreen?,Touchscreen Availability,selected_product/specs/General/Touchscreen
+What type of touchscreen does the device feature?,Touchscreen Type,selected_product/specs/General/Touchscreen
+Can you specify the touchscreen technology used?,Technology Used,selected_product/specs/General/Touchscreen
+Does the touchscreen support multi-touch gestures?,Multi-touch Support,selected_product/specs/General/Touchscreen
+What is the size/resolution of the touchscreen?,Size/Resolution,selected_product/specs/General/Touchscreen
+Are there any specific features of the touchscreen?,Specific Features,selected_product/specs/General/Touchscreen
+Is the device OTG compatible?,OTG Compatibility,selected_product/specs/General/OTG Compatible
+Can the device support USB On-The-Go (OTG)?,USB OTG Support,selected_product/specs/General/OTG Compatible
+Does the device allow external device connections via OTG?,External Device Support,selected_product/specs/General/OTG Compatible
+What types of peripherals can be connected using OTG?,Compatible Peripherals,selected_product/specs/General/OTG Compatible
+Are there any limitations to the OTG functionality?,Limitations,selected_product/specs/General/OTG Compatible
+Please describe the OTG compatibility of the device.,Description,selected_product/specs/General/OTG Compatible
+What is the size of the display?,Size,selected_product/specs/Display Features/Display Size
+Could you specify the screen dimensions?,Screen Dimensions,selected_product/specs/Display Features/Display Size
+Is the display size mentioned in inches or centimeters?,Unit Measurement,selected_product/specs/Display Features/Display Size
+What is the diagonal measurement of the screen?,Diagonal Measurement,selected_product/specs/Display Features/Display Size
+Are there bezels included in the display size calculation?,Bezel Inclusion,selected_product/specs/Display Features/Display Size
+Can you describe the aspect ratio or resolution of the display?,Aspect Ratio/Resolution,selected_product/specs/Display Features/Resolution
+How wide is the phone?,Width,selected_product/specs/Dimensions/Width
+What is the height of the phone?,Height,selected_product/specs/Dimensions/Height
+What is the depth of the phone?,Depth,selected_product/specs/Dimensions/Depth
+How heavy is the phone?,Weight,selected_product/specs/Dimensions/Weight
+What is the weight of the phone?,Weight,selected_product/specs/Dimensions/Weight
+What is the capacity of the device's battery?,Battery Capacity,selected_product/specs/Battery & Power Features/Battery Capacity
+Is the battery removable or non-removable?,Removability,selected_product/specs/Battery & Power Features/Battery Capacity
+What type of charging port does it use?,Charging Port,selected_product/specs/Battery & Power Features/Battery Capacity
+Does it support fast charging technology?,Fast Charging,selected_product/specs/Battery & Power Features/Battery Capacity
+What is the estimated battery life?,Battery Life,selected_product/specs/Battery & Power Features/Battery Capacity
+What is the internal storage capacity of the device?,Capacity,selected_product/specs/Memory & Storage Features/Internal Storage
+Can you specify the device's internal storage?,Specification,selected_product/specs/Memory & Storage Features/Internal Storage
+How much storage does the device have?,Storage Amount,selected_product/specs/Memory & Storage Features/Internal Storage
+Please provide details about the internal storage.,Storage Details,selected_product/specs/Memory & Storage Features/Internal Storage
+What is the available internal memory of the device?,Available Memory,selected_product/specs/Memory & Storage Features/Internal Storage
+Is the internal storage expandable?,Expandable Storage,selected_product/specs/Memory & Storage Features/Internal Storage
+What is the RAM of the deivce?,Capacity,selected_product/specs/Memory & Storage Features/RAM
+show me RAM of the deivce?,Capacity,selected_product/specs/Memory & Storage Features/RAM
+What is the RAM capacity of the selected product?,Capacity,selected_product/specs/Memory & Storage Features/RAM
+Can you specify the RAM size of the product?,Specification,selected_product/specs/Memory & Storage Features/RAM
+How much RAM does the selected product have?,RAM Amount,selected_product/specs/Memory & Storage Features/RAM
+Please provide details about the RAM of the selected product.,RAM Details,selected_product/specs/Memory & Storage Features/RAM
+What is the available RAM in the selected product?,Available RAM,selected_product/specs/Memory & Storage Features/RAM
+Is the RAM expandable in the selected product?,Expandable RAM,selected_product/specs/Memory & Storage Features/RAM
+What type of memory cards does the selected product support?,Supported Card Types,selected_product/specs/Memory & Storage Features/Supported Memory Card Type
+Can you specify the supported memory card types for the product?,Specification,selected_product/specs/Memory & Storage Features/Supported Memory Card Type
+Which memory card types are compatible with the selected product?,Compatible Card Types,selected_product/specs/Memory & Storage Features/Supported Memory Card Type
+Please provide details about the supported memory card types for the product.,Card Type Details,selected_product/specs/Memory & Storage Features/Supported Memory Card Type
+What memory card types are supported by the selected product?,Supported Types,selected_product/specs/Memory & Storage Features/Supported Memory Card Type
+Are there limitations on the memory card types supported by the selected product?,Limitations,selected_product/specs/Memory & Storage Features/Supported Memory Card Type
+What operating system does the selected product use?,OS Used,selected_product/specs/Memory & Storage Features/Operating System
+Can you specify the operating system of the product?,Specification,selected_product/specs/Memory & Storage Features/Operating System
+Which operating system is installed on the selected product?,Installed OS,selected_product/specs/Memory & Storage Features/Operating System
+Please provide details about the operating system used in the product.,OS Details,selected_product/specs/Memory & Storage Features/Operating System
+What is the operating system of the selected product?,Operating System,selected_product/specs/Memory & Storage Features/Operating System
+Are there any special features of the operating system used in the selected product?,Special OS Features,selected_product/specs/Memory & Storage Features/Operating System
+What version of Android is used in the selected product?,Android Version,selected_product/specs/Memory & Storage Features/Operating System
+Can you specify the Android version of the product?,Android Version,selected_product/specs/Memory & Storage Features/Operating System
+Which Android version is installed on the selected product?,Installed Android Version,selected_product/specs/Memory & Storage Features/Operating System
+Please provide details about the Android version used in the product.,Android Version Details,selected_product/specs/Memory & Storage Features/Operating System
+What is the Android version of the selected product?,Android Version,selected_product/specs/Memory & Storage Features/Operating System
+Are there any special features related to the Android version used in the selected product?,Special Android Version Features,selected_product/specs/Memory & Storage Features/Operating System
+What is the brand of the processor in the selected product?,Processor Brand,selected_product/specs/Os & Processor Features/Processor Brand
+Can you specify the processor brand of the product?,Processor Brand,selected_product/specs/Os & Processor Features/Processor Brand
+Which brand provides the processor in the selected product?,Processor Brand,selected_product/specs/Os & Processor Features/Processor Brand
+Please provide details about the processor brand used in the product.,Processor Brand Details,selected_product/specs/Os & Processor Features/Processor Brand
+What is the processor brand of the selected product?,Processor Brand,selected_product/specs/Os & Processor Features/Processor Brand
+Are there any special features related to the processor brand used in the selected product?,Special Processor Brand Features,selected_product/specs/Os & Processor Features/Processor Brand
+What type of processor does the selected product use?,Processor Type,selected_product/specs/Os & Processor Features/Processor Brand
+Which processor this product is using?,Processor Type,selected_product/specs/Os & Processor Features/Processor Brand
+Which processor this phone is using?,Processor Type,selected_product/specs/Os & Processor Features/Processor Brand
+Can you specify the processor type of the product?,Processor Type,selected_product/specs/Os & Processor Features/Processor Type
+Which type of processor is installed in the selected product?,Processor Type,selected_product/specs/Os & Processor Features/Processor Type
+Please provide details about the processor type used in the product.,Processor Type Details,selected_product/specs/Os & Processor Features/Processor Type
+What is the processor type of the selected product?,Processor Type,selected_product/specs/Os & Processor Features/Processor Type
+Are there any special features related to the processor type used in the selected product?,Special Processor Type Features,selected_product/specs/Os & Processor Features/Processor Type

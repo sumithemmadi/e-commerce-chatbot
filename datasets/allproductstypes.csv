@@ -1,0 +1,13 @@
+text,productTypeId,productType
+show me some phones,0,electronics
+where can I find headphones?,1,electronics
+I want to buy a new laptops,2,electronics
+I want to buy a new watch,3,electronics
+recommend me a good camera,4,electronics
+show me the latest smartwatches,5,electronics
+looking for a tablet with a stylus,6,electronics
+what are the best speakers available?,7,electronics
+show me the top gaming consoles,8,electronics
+I need a new television for my living room,9,electronics
+looking for a reliable microwave oven,10,electronics
+show me washing machine,11,electronics
