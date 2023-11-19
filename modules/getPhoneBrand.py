@@ -6,7 +6,6 @@ with open("datasets/brands.json", "r") as file:
     data = json.load(file)
 phones = data['phones']
 
-# Initialize BERT model and tokenizer
 model = BertForQuestionAnswering.from_pretrained(
     'bert-large-uncased-whole-word-masking-finetuned-squad')
 tokenizer = BertTokenizer.from_pretrained(

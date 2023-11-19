@@ -4,7 +4,7 @@ Show details of this phone ?,ALL,ALL
 give all the details of this phone, All, All
 What is the product name ?,Product Name,selected_product/name
 What is the product url ?,Url,selected_product/url
-What is the product Link ?,Url,selected_product/link
+What is the product Link ?,Url,selected_product/url
 What is the price of the product?,Price,selected_product/price
 Can you provide the cost of the product?,Cost,selected_product/price
 What is the pricing for this product?,Pricing,selected_product/price
@@ -122,7 +122,7 @@ Are there any special features related to the processor brand used in the select
 What type of processor does the selected product use?,Processor Type,selected_product/specs/Os & Processor Features/Processor Brand
 Which processor this product is using?,Processor Type,selected_product/specs/Os & Processor Features/Processor Brand
 Which processor this phone is using?,Processor Type,selected_product/specs/Os & Processor Features/Processor Brand
-Can you specify the processor type of the product?,Processor Type,selected_product/specs/Os & Processor Features/Processor Type
+Can you specify the processor type of the product?,PI require the color of the product.Color,selected_product/specs/Os & Processor Features/Processor Type
 Which type of processor is installed in the selected product?,Processor Type,selected_product/specs/Os & Processor Features/Processor Type
 Please provide details about the processor type used in the product.,Processor Type Details,selected_product/specs/Os & Processor Features/Processor Type
 What is the processor type of the selected product?,Processor Type,selected_product/specs/Os & Processor Features/Processor Type
