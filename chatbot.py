@@ -1,6 +1,6 @@
 import nltk
 from modules.getElectronicsProduct import getProducts
-from modules.getPhoneBrand import getPhoneFromQuery
+from modules.getPhoneBrand import getPhonesFromQuery
 from modules.getProductDetails import getProductsDetails
 from modules.query_specs import query_specs
 import json
@@ -50,7 +50,7 @@ while True:
     chatbot_response = ""
 
     if (data["flow"] == "START" and chatbot_response == ""):
-        phone = getPhoneFromQuery(user_input)
+        phone = getPhonesFromQuery(user_input)
 
         if (phone == "PhoneNotFound"):
             result = getProducts("latest phones")
@@ -98,5 +98,8 @@ while True:
             chatbot_response += json.dumps(data["selected_product"])
         else:
             chatbot_response += f"{spec_query_result['keys']} : {spec_product_name}"
+
+        with open('data/flows.json', 'w') as file:
+            json.dump({"flow": "START"}, file, indent=4)
 
     print(f"{Colors.GREEN + Colors.BOLD}Bot:{Colors.RESET} {chatbot_response}")

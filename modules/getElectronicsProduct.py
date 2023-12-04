@@ -92,12 +92,6 @@ def getProducts(product_name):
         except IndexError:
             url = None
 
-        # print({
-        #     "name": name,
-        #     "price": price,
-        #     "url": url,
-        # })
-
         allPhones.append({
             "name": name,
             "price": price,

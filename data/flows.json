@@ -1,3 +1,310 @@
 {
-    "flow": "START"
+    "flow": "QUERY_PROCUCT",
+    "products_list": [
+        {
+            "name": "realme C51 (Carbon Black, 64 GB)",
+            "price": "\u20b98,999",
+            "url": "https://www.flipkart.com/realme-c51-carbon-black-64-gb/p/itm0e93bcb87927f"
+        },
+        {
+            "name": "realme C51 (Mint Green, 64 GB)",
+            "price": "\u20b98,999",
+            "url": "https://www.flipkart.com/realme-c51-mint-green-64-gb/p/itm0e93bcb87927f"
+        },
+        {
+            "name": "realme C53 (Champion Gold, 64 GB)",
+            "price": "\u20b910,999",
+            "url": "https://www.flipkart.com/realme-c53-champion-gold-64-gb/p/itm5df90168ecd05"
+        },
+        {
+            "name": "realme C53 (Champion Black, 64 GB)",
+            "price": "\u20b910,999",
+            "url": "https://www.flipkart.com/realme-c53-champion-black-64-gb/p/itm5df90168ecd05"
+        },
+        {
+            "name": "realme C53 (Champion Black, 128 GB)",
+            "price": "\u20b99,999",
+            "url": "https://www.flipkart.com/realme-c53-champion-black-128-gb/p/itm5df90168ecd05"
+        },
+        {
+            "name": "realme C53 (Champion Gold, 128 GB)",
+            "price": "\u20b99,999",
+            "url": "https://www.flipkart.com/realme-c53-champion-gold-128-gb/p/itm5df90168ecd05"
+        },
+        {
+            "name": "realme 11x 5G (Purple Dawn, 128 GB)",
+            "price": "\u20b915,999",
+            "url": "https://www.flipkart.com/realme-11x-5g-purple-dawn-128-gb/p/itm07be1a2ff1a1b"
+        },
+        {
+            "name": "realme 11x 5G (Purple Dawn, 128 GB)",
+            "price": "\u20b914,999",
+            "url": "https://www.flipkart.com/realme-11x-5g-purple-dawn-128-gb/p/itm07be1a2ff1a1b"
+        },
+        {
+            "name": "realme 11x 5G (Midnight Black, 128 GB)",
+            "price": "\u20b915,999",
+            "url": "https://www.flipkart.com/realme-11x-5g-midnight-black-128-gb/p/itm07be1a2ff1a1b"
+        },
+        {
+            "name": "realme 11x 5G (Midnight Black, 128 GB)",
+            "price": "\u20b914,999",
+            "url": "https://www.flipkart.com/realme-11x-5g-midnight-black-128-gb/p/itm07be1a2ff1a1b"
+        },
+        {
+            "name": "realme 11 Pro+ 5G (Oasis Green, 256 GB)",
+            "price": "\u20b929,999",
+            "url": "https://www.flipkart.com/realme-11-pro-5g-oasis-green-256-gb/p/itm5647cce338e55"
+        },
+        {
+            "name": "realme 11 Pro+ 5G (Oasis Green, 256 GB)",
+            "price": "\u20b927,999",
+            "url": "https://www.flipkart.com/realme-11-pro-5g-oasis-green-256-gb/p/itm5647cce338e55"
+        },
+        {
+            "name": "realme 11 Pro+ 5G (Sunrise Beige, 256 GB)",
+            "price": "\u20b927,999",
+            "url": "https://www.flipkart.com/realme-11-pro-5g-sunrise-beige-256-gb/p/itm5647cce338e55"
+        },
+        {
+            "name": "realme 11 Pro+ 5G (Astral Black, 256 GB)",
+            "price": "\u20b927,999",
+            "url": "https://www.flipkart.com/realme-11-pro-5g-astral-black-256-gb/p/itm5647cce338e55"
+        },
+        {
+            "name": "realme 11 5G (Glory Gold, 128 GB)",
+            "price": "\u20b918,999",
+            "url": "https://www.flipkart.com/realme-11-5g-glory-gold-128-gb/p/itm676fecfaebff9"
+        },
+        {
+            "name": "realme 11 5G (Glory Black, 256 GB)",
+            "price": "\u20b919,999",
+            "url": "https://www.flipkart.com/realme-11-5g-glory-black-256-gb/p/itm676fecfaebff9"
+        },
+        {
+            "name": "realme 11 Pro+ 5G (Sunrise Beige, 256 GB)",
+            "price": "\u20b929,999",
+            "url": "https://www.flipkart.com/realme-11-pro-5g-sunrise-beige-256-gb/p/itm5647cce338e55"
+        },
+        {
+            "name": "realme 11 Pro+ 5G (Astral Black, 256 GB)",
+            "price": "\u20b929,999",
+            "url": "https://www.flipkart.com/realme-11-pro-5g-astral-black-256-gb/p/itm5647cce338e55"
+        },
+        {
+            "name": "realme 11 Pro 5G (Astral Black, 256 GB)",
+            "price": "\u20b927,999",
+            "url": "https://www.flipkart.com/realme-11-pro-5g-astral-black-256-gb/p/itm3f783627a36ec"
+        },
+        {
+            "name": "realme 9i 5G (Metallica Gold, 128 GB)",
+            "price": "\u20b916,999",
+            "url": "https://www.flipkart.com/realme-9i-5g-metallica-gold-128-gb/p/itm32c638d54e6b5",
+            "specs": {
+                "General": {
+                    "In The Box": "Handset, 18W Fast Charger, USB Type-C Cable, Protect Case, Sim Card Tool, Screen Protect Film, Quick Start Guide, Important Product Information (Including the Warranty Card)",
+                    "Model Number": "RMX3612",
+                    "Model Name": "9i 5G",
+                    "Color": "Rocking Black",
+                    "Browse Type": "Smartphones",
+                    "SIM Type": "Dual Sim",
+                    "Hybrid Sim Slot": "No",
+                    "Touchscreen": "Yes",
+                    "OTG Compatible": "Yes",
+                    "Quick Charging": "Yes"
+                },
+                "Display Features": {
+                    "Display Size": "16.76 cm (6.6 inch)",
+                    "Resolution": "2408 x 1080 Pixels",
+                    "Resolution Type": "Full HD+",
+                    "GPU": "Arm Mali-G57 MC2",
+                    "Display Type": "Full HD+ IPS LCD Display",
+                    "Other Display Features": "90 Hz Refresh Rate, 180 Hz Touch Sampling Rate, Screen-to-Body Ratio: 90.4%, 400 nits Brightness"
+                },
+                "Os & Processor Features": {
+                    "Operating System": "Android 12",
+                    "Processor Brand": "Mediatek",
+                    "Processor Type": "Mediatek Dimensity 810 5G",
+                    "Processor Core": "Octa Core",
+                    "Primary Clock Speed": "2.4 GHz",
+                    "Secondary Clock Speed": "2 GHz",
+                    "Operating Frequency": "2G GSM: 850/900/1800/1900 MHz, 3G WCDMA: B1/B2/B4/B5/B6/B8/B19, 4G FDD LTE: B1/B2/B3/B4/B5/B7/B8/B19/B20/B28A, 4G TD LTE: B34/B38/B39/B40/B41(2515-2675 MHz), 5G NR SA: n1/n5/n8/n28A/n41/n78, 5G NR NSA: n41/n77/n78"
+                },
+                "Memory & Storage Features": {
+                    "Internal Storage": "64 GB",
+                    "RAM": "4 GB",
+                    "Expandable Storage": "1 TB",
+                    "Memory Card Slot Type": "Dedicated Slot"
+                },
+                "Camera Features": {
+                    "Primary Camera Available": "Yes",
+                    "Primary Camera": "50MP + 2MP + 2MP",
+                    "Primary Camera Features": "Triple Camera Setup: 50MP Ultra HD Camera (f/1.8 Aperture, 5P Lens) + 2MP Portrait Camera (FOV: 50 Degree, 2P Lens) + 2MP Macro Camera (FOV: 88.8 Degree, 3P Lens), Camera Feature: Night Mode, Panoramic View, Pro Mode, Timelapse, Portrait Mode, HDR, Ultra Macro, AI Scene Recognition, AI Beauty, Filter, Chroma Boost, Slow Motion, Street Mode, Bokeh Effect Control, Text Scanner",
+                    "Secondary Camera Available": "Yes",
+                    "Secondary Camera": "8MP Front Camera",
+                    "Secondary Camera Features": "8MP Camera Setup: (f/2.0 Aperture, FOV: 77 Degree, 4P Lens), Camera Feature: Portrait Mode, Timelapse, Panoramic View, Beauty Mode, HDR, Face Recognition, Filter, Night Mode, Bokeh Effect Control",
+                    "Full HD Recording": "Yes",
+                    "Video Recording": "Yes",
+                    "Dual Camera Lens": "Primary Camera"
+                },
+                "Call Features": {
+                    "Speaker Phone": "Yes",
+                    "Call Records": "Yes"
+                },
+                "Connectivity Features": {
+                    "Network Type": "5G, 4G, 3G, 2G",
+                    "Supported Networks": "5G, 4G LTE, WCDMA, GSM",
+                    "Internet Connectivity": "5G, 4G, 3G, EDGE, GPRS, Wi-Fi",
+                    "GPRS": "Yes",
+                    "Bluetooth Support": "Yes",
+                    "Bluetooth Version": "v5.2",
+                    "Wi-Fi Version": "IEEE 802.11 a/b/g/n/ac (WiFi 4 | WiFi 5) (2.4 GHz | 5 GHz)",
+                    "Wi-Fi Hotspot": "Yes",
+                    "NFC": "No",
+                    "Infrared": "No",
+                    "USB Connectivity": "Yes",
+                    "Audio Jack": "3.5mm",
+                    "GPS Support": "Yes"
+                },
+                "Other Details": {
+                    "Smartphone": "Yes",
+                    "SIM Size": "Nano Sim",
+                    "User Interface": "Realme UI 3.0 (Based on Android 12)",
+                    "SMS": "Yes",
+                    "Sensors": "Magnetic Induction Sensor, Light Sensor, Proximity Sensor, Acceleration Sensor, Side Mounted Fingerprint Sensor",
+                    "Browser": "Google Chrome",
+                    "Other Features": "USF 2.2 Storage, Bluetooth Codec: SBC, AAC, LDAC, Power Button, Microphones, Volume Up/ Down",
+                    "GPS Type": "GPS, AGPS, BEIDOU, GLONASS"
+                },
+                "Battery & Power Features": {
+                    "Battery Capacity": "5000 mAh"
+                },
+                "Dimensions": {
+                    "Width": "75.1 mm",
+                    "Height": "164.4 mm",
+                    "Depth": "8.1 mm",
+                    "Weight": "187 g"
+                },
+                "Warranty": {
+                    "Warranty Summary": "1 Year Manufacturer Warranty for Phone and 6 Months Warranty for In-Box Accessories",
+                    "Domestic Warranty": "1 Year"
+                }
+            }
+        },
+        {
+            "name": "realme 11 Pro 5G (Astral Black, 256 GB)",
+            "price": "\u20b924,999",
+            "url": "https://www.flipkart.com/realme-11-pro-5g-astral-black-256-gb/p/itm3f783627a36ec"
+        },
+        {
+            "name": "realme 11 5G (Glory Gold, 256 GB)",
+            "price": "\u20b919,999",
+            "url": "https://www.flipkart.com/realme-11-5g-glory-gold-256-gb/p/itm676fecfaebff9"
+        },
+        {
+            "name": "realme C53 (Champion Black, 128 GB)",
+            "price": "\u20b911,999",
+            "url": "https://www.flipkart.com/realme-c53-champion-black-128-gb/p/itm5df90168ecd05"
+        },
+        {
+            "name": "realme C53 (Champion Gold, 128 GB)",
+            "price": "\u20b911,999",
+            "url": "https://www.flipkart.com/realme-c53-champion-gold-128-gb/p/itm5df90168ecd05"
+        }
+    ],
+    "selected_product": {
+        "name": "realme 9i 5G (Metallica Gold, 128 GB)",
+        "price": "\u20b916,999",
+        "url": "https://www.flipkart.com/realme-9i-5g-metallica-gold-128-gb/p/itm32c638d54e6b5",
+        "specs": {
+            "General": {
+                "In The Box": "Handset, 18W Fast Charger, USB Type-C Cable, Protect Case, Sim Card Tool, Screen Protect Film, Quick Start Guide, Important Product Information (Including the Warranty Card)",
+                "Model Number": "RMX3612",
+                "Model Name": "9i 5G",
+                "Color": "Rocking Black",
+                "Browse Type": "Smartphones",
+                "SIM Type": "Dual Sim",
+                "Hybrid Sim Slot": "No",
+                "Touchscreen": "Yes",
+                "OTG Compatible": "Yes",
+                "Quick Charging": "Yes"
+            },
+            "Display Features": {
+                "Display Size": "16.76 cm (6.6 inch)",
+                "Resolution": "2408 x 1080 Pixels",
+                "Resolution Type": "Full HD+",
+                "GPU": "Arm Mali-G57 MC2",
+                "Display Type": "Full HD+ IPS LCD Display",
+                "Other Display Features": "90 Hz Refresh Rate, 180 Hz Touch Sampling Rate, Screen-to-Body Ratio: 90.4%, 400 nits Brightness"
+            },
+            "Os & Processor Features": {
+                "Operating System": "Android 12",
+                "Processor Brand": "Mediatek",
+                "Processor Type": "Mediatek Dimensity 810 5G",
+                "Processor Core": "Octa Core",
+                "Primary Clock Speed": "2.4 GHz",
+                "Secondary Clock Speed": "2 GHz",
+                "Operating Frequency": "2G GSM: 850/900/1800/1900 MHz, 3G WCDMA: B1/B2/B4/B5/B6/B8/B19, 4G FDD LTE: B1/B2/B3/B4/B5/B7/B8/B19/B20/B28A, 4G TD LTE: B34/B38/B39/B40/B41(2515-2675 MHz), 5G NR SA: n1/n5/n8/n28A/n41/n78, 5G NR NSA: n41/n77/n78"
+            },
+            "Memory & Storage Features": {
+                "Internal Storage": "64 GB",
+                "RAM": "4 GB",
+                "Expandable Storage": "1 TB",
+                "Memory Card Slot Type": "Dedicated Slot"
+            },
+            "Camera Features": {
+                "Primary Camera Available": "Yes",
+                "Primary Camera": "50MP + 2MP + 2MP",
+                "Primary Camera Features": "Triple Camera Setup: 50MP Ultra HD Camera (f/1.8 Aperture, 5P Lens) + 2MP Portrait Camera (FOV: 50 Degree, 2P Lens) + 2MP Macro Camera (FOV: 88.8 Degree, 3P Lens), Camera Feature: Night Mode, Panoramic View, Pro Mode, Timelapse, Portrait Mode, HDR, Ultra Macro, AI Scene Recognition, AI Beauty, Filter, Chroma Boost, Slow Motion, Street Mode, Bokeh Effect Control, Text Scanner",
+                "Secondary Camera Available": "Yes",
+                "Secondary Camera": "8MP Front Camera",
+                "Secondary Camera Features": "8MP Camera Setup: (f/2.0 Aperture, FOV: 77 Degree, 4P Lens), Camera Feature: Portrait Mode, Timelapse, Panoramic View, Beauty Mode, HDR, Face Recognition, Filter, Night Mode, Bokeh Effect Control",
+                "Full HD Recording": "Yes",
+                "Video Recording": "Yes",
+                "Dual Camera Lens": "Primary Camera"
+            },
+            "Call Features": {
+                "Speaker Phone": "Yes",
+                "Call Records": "Yes"
+            },
+            "Connectivity Features": {
+                "Network Type": "5G, 4G, 3G, 2G",
+                "Supported Networks": "5G, 4G LTE, WCDMA, GSM",
+                "Internet Connectivity": "5G, 4G, 3G, EDGE, GPRS, Wi-Fi",
+                "GPRS": "Yes",
+                "Bluetooth Support": "Yes",
+                "Bluetooth Version": "v5.2",
+                "Wi-Fi Version": "IEEE 802.11 a/b/g/n/ac (WiFi 4 | WiFi 5) (2.4 GHz | 5 GHz)",
+                "Wi-Fi Hotspot": "Yes",
+                "NFC": "No",
+                "Infrared": "No",
+                "USB Connectivity": "Yes",
+                "Audio Jack": "3.5mm",
+                "GPS Support": "Yes"
+            },
+            "Other Details": {
+                "Smartphone": "Yes",
+                "SIM Size": "Nano Sim",
+                "User Interface": "Realme UI 3.0 (Based on Android 12)",
+                "SMS": "Yes",
+                "Sensors": "Magnetic Induction Sensor, Light Sensor, Proximity Sensor, Acceleration Sensor, Side Mounted Fingerprint Sensor",
+                "Browser": "Google Chrome",
+                "Other Features": "USF 2.2 Storage, Bluetooth Codec: SBC, AAC, LDAC, Power Button, Microphones, Volume Up/ Down",
+                "GPS Type": "GPS, AGPS, BEIDOU, GLONASS"
+            },
+            "Battery & Power Features": {
+                "Battery Capacity": "5000 mAh"
+            },
+            "Dimensions": {
+                "Width": "75.1 mm",
+                "Height": "164.4 mm",
+                "Depth": "8.1 mm",
+                "Weight": "187 g"
+            },
+            "Warranty": {
+                "Warranty Summary": "1 Year Manufacturer Warranty for Phone and 6 Months Warranty for In-Box Accessories",
+                "Domestic Warranty": "1 Year"
+            }
+        }
+    }
 }
