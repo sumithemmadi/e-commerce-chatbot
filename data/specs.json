@@ -1,19 +1,19 @@
 [
     {
         "key": "In The Box",
-        "value": "Handset, 18W Fast Charger, USB Type-C Cable, Protect Case, Sim Card Tool, Screen Protect Film, Quick Start Guide, Important Product Information (Including the Warranty Card)"
+        "value": "Handset, 10W Adapter, USB Cable, Sim Eject Tool, Quick Start Guide, Warranty Card"
     },
     {
         "key": "Model Number",
-        "value": "RMX3612"
+        "value": "MZB0DXKIN"
     },
     {
         "key": "Model Name",
-        "value": "9i 5G"
+        "value": "C51"
     },
     {
         "key": "Color",
-        "value": "Rocking Black"
+        "value": "Royal Blue"
     },
     {
         "key": "Browse Type",
@@ -40,32 +40,36 @@
         "value": "Yes"
     },
     {
+        "key": "SAR Value",
+        "value": "SAR Limit: 1.6 W/kg, Head: 0.966 W/kg, Body: 0.873 W/kg"
+    },
+    {
         "key": "Display Size",
-        "value": "16.76 cm (6.6 inch)"
+        "value": "16.56 cm (6.52 inch)"
     },
     {
         "key": "Resolution",
-        "value": "2408 x 1080 Pixels"
+        "value": "1600 x 720 Pixels"
     },
     {
         "key": "Resolution Type",
-        "value": "Full HD+"
+        "value": "HD+"
     },
     {
         "key": "GPU",
-        "value": "Arm Mali-G57 MC2"
+        "value": "IMG PowerVR"
     },
     {
         "key": "Display Type",
-        "value": "Full HD+ IPS LCD Display"
+        "value": "HD+ Scratch Resistant Display"
     },
     {
         "key": "Other Display Features",
-        "value": "90 Hz Refresh Rate, 180 Hz Touch Sampling Rate, Screen-to-Body Ratio: 90.4%, 400 nits Brightness"
+        "value": "120Hz Touch Sampling Rate, Brightness: 400nits"
     },
     {
         "key": "Operating System",
-        "value": "Android 12"
+        "value": "Android 13"
     },
     {
         "key": "Processor Brand",
@@ -73,7 +77,7 @@
     },
     {
         "key": "Processor Type",
-        "value": "Mediatek Dimensity 810 5G"
+        "value": "Helio G36"
     },
     {
         "key": "Processor Core",
@@ -81,15 +85,11 @@
     },
     {
         "key": "Primary Clock Speed",
-        "value": "2.4 GHz"
-    },
-    {
-        "key": "Secondary Clock Speed",
-        "value": "2 GHz"
+        "value": "2.2 GHz"
     },
     {
         "key": "Operating Frequency",
-        "value": "2G GSM: 850/900/1800/1900 MHz, 3G WCDMA: B1/B2/B4/B5/B6/B8/B19, 4G FDD LTE: B1/B2/B3/B4/B5/B7/B8/B19/B20/B28A, 4G TD LTE: B34/B38/B39/B40/B41(2515-2675 MHz), 5G NR SA: n1/n5/n8/n28A/n41/n78, 5G NR NSA: n41/n77/n78"
+        "value": "2G GSM: B2/B3/B5/B8, 3G WCDMA: B1/B5/B8, 4G LTE TDD: B40/B41, 4G LTE FDD: B1/B3/B5/B8"
     },
     {
         "key": "Internal Storage",
@@ -104,8 +104,16 @@
         "value": "1 TB"
     },
     {
+        "key": "Supported Memory Card Type",
+        "value": "MicroSD"
+    },
+    {
         "key": "Memory Card Slot Type",
         "value": "Dedicated Slot"
+    },
+    {
+        "key": "Call Log Memory",
+        "value": "Yes"
     },
     {
         "key": "Primary Camera Available",
@@ -113,11 +121,11 @@
     },
     {
         "key": "Primary Camera",
-        "value": "50MP + 2MP + 2MP"
+        "value": "8MP Dual Rear Camera"
     },
     {
         "key": "Primary Camera Features",
-        "value": "Triple Camera Setup: 50MP Ultra HD Camera (f/1.8 Aperture, 5P Lens) + 2MP Portrait Camera (FOV: 50 Degree, 2P Lens) + 2MP Macro Camera (FOV: 88.8 Degree, 3P Lens), Camera Feature: Night Mode, Panoramic View, Pro Mode, Timelapse, Portrait Mode, HDR, Ultra Macro, AI Scene Recognition, AI Beauty, Filter, Chroma Boost, Slow Motion, Street Mode, Bokeh Effect Control, Text Scanner"
+        "value": "8MP AI Dual Camera: (f/2.0 Aperture), Camera Features: HDR Mode, Photo Mode, Video Mode, Portrait Mode, Short Video, Timelapse, Tilt-Shift Mode"
     },
     {
         "key": "Secondary Camera Available",
@@ -125,11 +133,19 @@
     },
     {
         "key": "Secondary Camera",
-        "value": "8MP Front Camera"
+        "value": "5MP Front Camera"
     },
     {
         "key": "Secondary Camera Features",
-        "value": "8MP Camera Setup: (f/2.0 Aperture, FOV: 77 Degree, 4P Lens), Camera Feature: Portrait Mode, Timelapse, Panoramic View, Beauty Mode, HDR, Face Recognition, Filter, Night Mode, Bokeh Effect Control"
+        "value": "5MP Front Camera"
+    },
+    {
+        "key": "Flash",
+        "value": "Rear Flash"
+    },
+    {
+        "key": "HD Recording",
+        "value": "Yes"
     },
     {
         "key": "Full HD Recording",
@@ -140,8 +156,44 @@
         "value": "Yes"
     },
     {
+        "key": "Video Recording Resolution",
+        "value": "Rear Camera: 1080p (at 30 fps), 720p (at 30 fps) | Front Camera: 1080p (at 30 fps), 720p (at 30 fps)"
+    },
+    {
+        "key": "Digital Zoom",
+        "value": "Yes"
+    },
+    {
+        "key": "Frame Rate",
+        "value": "60 Hz"
+    },
+    {
         "key": "Dual Camera Lens",
         "value": "Primary Camera"
+    },
+    {
+        "key": "Call Wait/Hold",
+        "value": "Yes"
+    },
+    {
+        "key": "Conference Call",
+        "value": "Yes"
+    },
+    {
+        "key": "Hands Free",
+        "value": "Yes"
+    },
+    {
+        "key": "Call Divert",
+        "value": "Yes"
+    },
+    {
+        "key": "Phone Book",
+        "value": "Yes"
+    },
+    {
+        "key": "Call Timer",
+        "value": "Yes"
     },
     {
         "key": "Speaker Phone",
@@ -153,18 +205,26 @@
     },
     {
         "key": "Network Type",
-        "value": "5G, 4G, 3G, 2G"
+        "value": "2G, 3G, 4G, 4G VOLTE"
     },
     {
         "key": "Supported Networks",
-        "value": "5G, 4G LTE, WCDMA, GSM"
+        "value": "4G LTE, 4G VoLTE, GSM, WCDMA"
     },
     {
         "key": "Internet Connectivity",
-        "value": "5G, 4G, 3G, EDGE, GPRS, Wi-Fi"
+        "value": "4G, 3G, Wi-Fi, EDGE, GPRS"
+    },
+    {
+        "key": "3G",
+        "value": "Yes"
     },
     {
         "key": "GPRS",
+        "value": "Yes"
+    },
+    {
+        "key": "Micro USB Port",
         "value": "Yes"
     },
     {
@@ -173,31 +233,47 @@
     },
     {
         "key": "Bluetooth Version",
-        "value": "v5.2"
+        "value": "v5.0"
+    },
+    {
+        "key": "Wi-Fi",
+        "value": "Yes"
     },
     {
         "key": "Wi-Fi Version",
-        "value": "IEEE 802.11 a/b/g/n/ac (WiFi 4 | WiFi 5) (2.4 GHz | 5 GHz)"
+        "value": "802.11 b/g/n"
     },
     {
         "key": "Wi-Fi Hotspot",
         "value": "Yes"
     },
     {
+        "key": "Mini HDMI Port",
+        "value": "No"
+    },
+    {
         "key": "NFC",
         "value": "No"
     },
     {
-        "key": "Infrared",
-        "value": "No"
+        "key": "USB Tethering",
+        "value": "Yes"
     },
     {
         "key": "USB Connectivity",
         "value": "Yes"
     },
     {
+        "key": "EDGE",
+        "value": "Yes"
+    },
+    {
         "key": "Audio Jack",
         "value": "3.5mm"
+    },
+    {
+        "key": "Map Support",
+        "value": "Google Maps"
     },
     {
         "key": "GPS Support",
@@ -208,20 +284,48 @@
         "value": "Yes"
     },
     {
+        "key": "Touchscreen Type",
+        "value": "Capacitive"
+    },
+    {
         "key": "SIM Size",
         "value": "Nano Sim"
     },
     {
         "key": "User Interface",
-        "value": "Realme UI 3.0 (Based on Android 12)"
+        "value": "Android 13 (Go Edition)"
+    },
+    {
+        "key": "Instant Message",
+        "value": "Yes"
+    },
+    {
+        "key": "Removable Battery",
+        "value": "No"
+    },
+    {
+        "key": "MMS",
+        "value": "Yes"
     },
     {
         "key": "SMS",
         "value": "Yes"
     },
     {
+        "key": "Keypad",
+        "value": "No"
+    },
+    {
+        "key": "Voice Input",
+        "value": "Yes"
+    },
+    {
+        "key": "Predictive Text Input",
+        "value": "Yes"
+    },
+    {
         "key": "Sensors",
-        "value": "Magnetic Induction Sensor, Light Sensor, Proximity Sensor, Acceleration Sensor, Side Mounted Fingerprint Sensor"
+        "value": "Accelerometer, Fingerprint Sensor"
     },
     {
         "key": "Browser",
@@ -229,35 +333,51 @@
     },
     {
         "key": "Other Features",
-        "value": "USF 2.2 Storage, Bluetooth Codec: SBC, AAC, LDAC, Power Button, Microphones, Volume Up/ Down"
+        "value": "Splash Resistant Coating, MIUI Dialer, Upto 3 GB Turbo RAM"
     },
     {
         "key": "GPS Type",
-        "value": "GPS, AGPS, BEIDOU, GLONASS"
+        "value": "GPS, AGPS, GLONASS, BEIDOU"
+    },
+    {
+        "key": "FM Radio",
+        "value": "Yes"
+    },
+    {
+        "key": "FM Radio Recording",
+        "value": "Yes"
     },
     {
         "key": "Battery Capacity",
         "value": "5000 mAh"
     },
     {
+        "key": "Battery Type",
+        "value": "Lithium Polymer"
+    },
+    {
         "key": "Width",
-        "value": "75.1 mm"
+        "value": "76.75 mm"
     },
     {
         "key": "Height",
-        "value": "164.4 mm"
+        "value": "164.9 mm"
     },
     {
         "key": "Depth",
-        "value": "8.1 mm"
+        "value": "9.09 mm"
     },
     {
         "key": "Weight",
-        "value": "187 g"
+        "value": "192 g"
     },
     {
         "key": "Warranty Summary",
-        "value": "1 Year Manufacturer Warranty for Phone and 6 Months Warranty for In-Box Accessories"
+        "value": "1 Year Manufacturer Warranty for Phone and 6 Months Warranty for in the Box Accessories"
+    },
+    {
+        "key": "Warranty Service Type",
+        "value": "NA"
     },
     {
         "key": "Domestic Warranty",

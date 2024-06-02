@@ -1,8 +1,0 @@
-# Ignore artifacts:
-build
-coverage
-dist
-baileys_auth_info/
-node_modules/
-
-baileys_store_multi.json

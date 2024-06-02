@@ -39,28 +39,11 @@ def getProductsDetails(product_url):
         "Sec-Fetch-User": "?1"
     }
 
-    params = {
-        'pid': 'MOBGZCQFCWNDK89P',
-        'lid': 'LSTMOBGZCQFCWNDK89POEPN6S',
-        'marketplace': 'FLIPKART',
-        'q': 'phone',
-        'store': 'tyy/4io',
-        'spotlightTagId': 'BestsellerId_tyy/4io',
-        'srno': 's_1_1',
-        'otracker': 'search',
-        'otracker1': 'search',
-        'fm': 'Search',
-        'iid': '4cc52017-2bc7-45b3-b1db-593c904bc0b3.MOBGZCQFCWNDK89P.SEARCH',
-        'ppt': 'sp',
-        'ppn': 'sp',
-        'ssid': 'tcuhs0pfodlyhclc1699207614207',
-        'qH': '9709638de74d20a5',
-    }
-
     requests.packages.urllib3.disable_warnings()
 
     response = requests.get(product_url, cookies=cookies,
                             headers=headers, verify=False)
+    # print(response.content)
 
     data = {}
 
@@ -68,18 +51,20 @@ def getProductsDetails(product_url):
 
     if response.status_code == 200:
         soup = bs(response.content, 'html.parser')
-        divs = soup.find_all(class_="_3k-BhJ")
+        divs = soup.find_all(class_="GNDEQ-")
 
         for div in divs:
+            # print(div)
             small_soup = bs(str(div), 'html.parser')
-            specificationType = small_soup.find(class_="flxcaE").text
+
+            specificationType = small_soup.find(class_="_4BJ2V+").text
 
             rows = small_soup.find_all('tr')
 
             table_data = {}
             for row in rows:
-                key = row.find('td', class_='_1hKmbr col col-3-12').text
-                value = row.find('td', class_='URwL2w col col-9-12').text
+                key = row.find('td', class_='+fFi1w col col-3-12').text
+                value = row.find('td', class_='Izz52n col col-9-12').text
                 table_data[key] = value
                 specs_dataset.append({
                     "key": key,
@@ -94,7 +79,7 @@ def getProductsDetails(product_url):
     return data
 
 
-# details = getProductsDetails(
-#     "https://www.flipkart.com/poco-c51-royal-blue-64-gb/p/itm1e4e8373537a7")
+details = getProductsDetails(
+    "https://www.flipkart.com/poco-c51-royal-blue-64-gb/p/itm1e4e8373537a7")
 
-# print(details)
+print(details)

@@ -3,7 +3,7 @@ import re
 import nltk
 import csv
 from modules.getElectronicsProduct import getProducts
-from modules.getPhoneBrand import get_phone_from_query
+from modules.getPhoneBrand import getPhonesFromQuery
 from modules.getProductDetails import getProductsDetails
 from modules.query_specs import query_specs
 import json
@@ -45,7 +45,7 @@ def send_message():
         chatbot_response = ""
 
         if (data["flow"] == "START" and chatbot_response == ""):
-            phone = get_phone_from_query(user_input)
+            phone = getPhonesFromQuery(user_input)
 
             if (phone == "PhoneNotFound"):
                 result = getProducts("latest phones")
