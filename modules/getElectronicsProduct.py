@@ -104,4 +104,4 @@ def getProducts(product_name):
     return allPhones
 
 
-print(json.dumps(getProducts("latest phones"),indent=4))
+# print(json.dumps(getProducts("latest phones"),indent=4))

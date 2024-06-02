@@ -79,7 +79,7 @@ def getProductsDetails(product_url):
     return data
 
 
-details = getProductsDetails(
-    "https://www.flipkart.com/poco-c51-royal-blue-64-gb/p/itm1e4e8373537a7")
+# details = getProductsDetails(
+#     "https://www.flipkart.com/poco-c51-royal-blue-64-gb/p/itm1e4e8373537a7")
 
-print(details)
+# print(details)
