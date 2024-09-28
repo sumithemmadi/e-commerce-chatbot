@@ -1,19 +1,19 @@
 [
     {
         "key": "In The Box",
-        "value": "Handset, 10W Adapter, USB Cable, Sim Eject Tool, Quick Start Guide, Warranty Card"
+        "value": "Handset, 22.5W Charger, USB Type-C Cable, Sim Eject Tool, Protective Case, Quick Start Guide, Warranty Card"
     },
     {
         "key": "Model Number",
-        "value": "MZB0DXKIN"
+        "value": "MZB0EQLININ|MZB0EQLIN"
     },
     {
         "key": "Model Name",
-        "value": "C51"
+        "value": "12"
     },
     {
         "key": "Color",
-        "value": "Royal Blue"
+        "value": "Moonstone Silver"
     },
     {
         "key": "Browse Type",
@@ -25,7 +25,7 @@
     },
     {
         "key": "Hybrid Sim Slot",
-        "value": "No"
+        "value": "Yes"
     },
     {
         "key": "Touchscreen",
@@ -41,31 +41,31 @@
     },
     {
         "key": "SAR Value",
-        "value": "SAR Limit: 1.6 W/kg, Head: 0.966 W/kg, Body: 0.873 W/kg"
+        "value": "SAR Limit: 1.6 W/kg, Head: 0.846 W/kg, Body: 0.747 W/kg"
     },
     {
         "key": "Display Size",
-        "value": "16.56 cm (6.52 inch)"
+        "value": "17.25 cm (6.79 inch)"
     },
     {
         "key": "Resolution",
-        "value": "1600 x 720 Pixels"
+        "value": "2460 x 1080 Pixels"
     },
     {
         "key": "Resolution Type",
-        "value": "HD+"
+        "value": "Full HD+"
     },
     {
         "key": "GPU",
-        "value": "IMG PowerVR"
+        "value": "ARM Mali-G52 MC2"
     },
     {
         "key": "Display Type",
-        "value": "HD+ Scratch Resistant Display"
+        "value": "Full HD+ 90Hz Adaptive sync"
     },
     {
         "key": "Other Display Features",
-        "value": "120Hz Touch Sampling Rate, Brightness: 400nits"
+        "value": "Peak Brightness: 450nits, 240Hz Touch Sampling Rate, Corning Gorilla Glass Protection"
     },
     {
         "key": "Operating System",
@@ -77,7 +77,7 @@
     },
     {
         "key": "Processor Type",
-        "value": "Helio G36"
+        "value": "Helio G88"
     },
     {
         "key": "Processor Core",
@@ -85,7 +85,11 @@
     },
     {
         "key": "Primary Clock Speed",
-        "value": "2.2 GHz"
+        "value": "2 GHz"
+    },
+    {
+        "key": "Secondary Clock Speed",
+        "value": "1.8 GHz"
     },
     {
         "key": "Operating Frequency",
@@ -93,23 +97,23 @@
     },
     {
         "key": "Internal Storage",
-        "value": "64 GB"
+        "value": "128 GB"
     },
     {
         "key": "RAM",
-        "value": "4 GB"
+        "value": "6 GB"
+    },
+    {
+        "key": "Total Memory",
+        "value": "128 GB"
     },
     {
         "key": "Expandable Storage",
         "value": "1 TB"
     },
     {
-        "key": "Supported Memory Card Type",
-        "value": "MicroSD"
-    },
-    {
         "key": "Memory Card Slot Type",
-        "value": "Dedicated Slot"
+        "value": "Hybrid Slot"
     },
     {
         "key": "Call Log Memory",
@@ -121,11 +125,11 @@
     },
     {
         "key": "Primary Camera",
-        "value": "8MP Dual Rear Camera"
+        "value": "50MP + 8MP + 2MP"
     },
     {
         "key": "Primary Camera Features",
-        "value": "8MP AI Dual Camera: (f/2.0 Aperture), Camera Features: HDR Mode, Photo Mode, Video Mode, Portrait Mode, Short Video, Timelapse, Tilt-Shift Mode"
+        "value": "Triple Camera Setup: 50MP Main Camera (f/1.8 Aperture, (1.28um 4-in-1) Pixel Size) + 8MP Ultra Wide Camera + 2MP Macro Camera, Features: Photo, Portrait, Night Mode, 50MP, Custom Watermark, Google Lens, Tilt Shift, Timed Burst, Film Filters, Macro, HDR, Timelapse, Voice Shutter, Video Features: Ultra Wide Video, Macro Video, Timelapse"
     },
     {
         "key": "Secondary Camera Available",
@@ -133,11 +137,11 @@
     },
     {
         "key": "Secondary Camera",
-        "value": "5MP Front Camera"
+        "value": "8MP Front Camera"
     },
     {
         "key": "Secondary Camera Features",
-        "value": "5MP Front Camera"
+        "value": "8MP Front Camera Setup: Features: Camera, Features: Portrait Mode, Front Video Recording, Palm Shutter, Movie Filters, Beautify, Timed Burst, Voice Shutter, Filters, Timelapse"
     },
     {
         "key": "Flash",
@@ -161,11 +165,15 @@
     },
     {
         "key": "Digital Zoom",
-        "value": "Yes"
+        "value": "Upto 10X"
     },
     {
         "key": "Frame Rate",
-        "value": "60 Hz"
+        "value": "90Hz fps"
+    },
+    {
+        "key": "Image Editor",
+        "value": "Yes"
     },
     {
         "key": "Dual Camera Lens",
@@ -228,12 +236,16 @@
         "value": "Yes"
     },
     {
+        "key": "Micro USB Version",
+        "value": "USB (Type C)"
+    },
+    {
         "key": "Bluetooth Support",
         "value": "Yes"
     },
     {
         "key": "Bluetooth Version",
-        "value": "v5.0"
+        "value": "v5.3"
     },
     {
         "key": "Wi-Fi",
@@ -241,7 +253,7 @@
     },
     {
         "key": "Wi-Fi Version",
-        "value": "802.11 b/g/n"
+        "value": "Supports 2.4 GHz and 5 GHz Dual Band"
     },
     {
         "key": "Wi-Fi Hotspot",
@@ -260,11 +272,11 @@
         "value": "Yes"
     },
     {
-        "key": "USB Connectivity",
+        "key": "Infrared",
         "value": "Yes"
     },
     {
-        "key": "EDGE",
+        "key": "USB Connectivity",
         "value": "Yes"
     },
     {
@@ -293,7 +305,7 @@
     },
     {
         "key": "User Interface",
-        "value": "Android 13 (Go Edition)"
+        "value": "Android 13 (Based on MIUI 14)"
     },
     {
         "key": "Instant Message",
@@ -324,8 +336,12 @@
         "value": "Yes"
     },
     {
+        "key": "User Memory",
+        "value": "101.5"
+    },
+    {
         "key": "Sensors",
-        "value": "Accelerometer, Fingerprint Sensor"
+        "value": "Accelerometer, Side Fingerprint Sensor, Electronic Compass, IR Blaster"
     },
     {
         "key": "Browser",
@@ -333,11 +349,11 @@
     },
     {
         "key": "Other Features",
-        "value": "Splash Resistant Coating, MIUI Dialer, Upto 3 GB Turbo RAM"
+        "value": "IP53 Protection, 18W Fast Charging"
     },
     {
         "key": "GPS Type",
-        "value": "GPS, AGPS, GLONASS, BEIDOU"
+        "value": "GPS, AGPS, GLONASS, BEIDOU, GALILEO"
     },
     {
         "key": "FM Radio",
@@ -345,6 +361,10 @@
     },
     {
         "key": "FM Radio Recording",
+        "value": "Yes"
+    },
+    {
+        "key": "Music Player",
         "value": "Yes"
     },
     {
@@ -356,20 +376,24 @@
         "value": "Lithium Polymer"
     },
     {
+        "key": "Talk Time",
+        "value": "34 Hours"
+    },
+    {
         "key": "Width",
-        "value": "76.75 mm"
+        "value": "76.28 mm"
     },
     {
         "key": "Height",
-        "value": "164.9 mm"
+        "value": "168.6 mm"
     },
     {
         "key": "Depth",
-        "value": "9.09 mm"
+        "value": "8.17 mm"
     },
     {
         "key": "Weight",
-        "value": "192 g"
+        "value": "198.5 g"
     },
     {
         "key": "Warranty Summary",

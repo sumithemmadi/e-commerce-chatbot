@@ -66,7 +66,8 @@ def send_message():
                     index = int(user_input) - 1
                     if 0 <= index < len(data["products_list"]):
                         phone = data["products_list"][index]
-                        chatbot_response += f"\nName : {phone['name']}\nPrice : {phone['price']}\nUrl : {phone['url']}"
+                        chatbot_response += f"\nName : {phone['name']}\nPrice : {
+                            phone['price']}\nUrl : {phone['url']}"
                         data["flow"] = "QUERY_PROCUCT"
                         data["selected_product"] = phone
                         product_specs = getProductsDetails(phone['url'])
@@ -93,7 +94,8 @@ def send_message():
                 chatbot_response += json.dumps(
                     data["selected_product"], ascii=False, indent=3)
             else:
-                chatbot_response += f"{spec_query_result['keys']} : {spec_product_name}"
+                chatbot_response += f"{
+                    spec_query_result['keys']} : {spec_product_name}"
 
         return jsonify({'message': chatbot_response})
 
