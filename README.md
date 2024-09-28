@@ -37,5 +37,5 @@ Creating a virtual environment (venv) in Windows.
 
 - **Installing Packages**: After activating your virtual environment, you can install packages using `pip`. For example:
   ```sh
-  pip install requests scikit-learn torch  nlt transformers flask beautifulsoup4
+  pip install requests scikit-learn torch  nltk transformers flask beautifulsoup4
   ```
